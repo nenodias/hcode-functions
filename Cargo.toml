@@ -10,6 +10,6 @@ documentation = "https://github.com/nenodias"
 license = "MIT"
 
 keywords = ["test", "lib"]
-categories = ["diy"]
+categories = []
 
 [dependencies]
