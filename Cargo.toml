@@ -1,11 +1,11 @@
 [package]
-name = "hcode-functions"
+name = "nenodias-functions"
 version = "0.1.0"
 edition = "2024"
 authors = ["Horácio Dias Baptista Nto <horacio.dias92@gmail.com>"]
 description = "Biblioteca de funções de teste"
 homepage = "https://github.com/nenodias"
-repository = "https://github.com/nenodias"
+repository = "https://github.com/nenodias/hcode-functions"
 documentation = "https://github.com/nenodias"
 license = "MIT"
 
